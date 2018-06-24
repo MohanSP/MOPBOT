@@ -1,0 +1,39 @@
+\contentsline {part}{I\hspace {1em}Literature review}{3}{part.1}
+\contentsline {section}{\numberline {1}Objective}{3}{section.1}
+\contentsline {section}{\numberline {2}Introduction}{3}{section.2}
+\contentsline {section}{\numberline {3}Methodology}{3}{section.3}
+\contentsline {part}{II\hspace {1em}Hardware used}{3}{part.2}
+\contentsline {section}{\numberline {4}Firebird V by Nex Robotics}{4}{section.4}
+\contentsline {section}{\numberline {5}MeArm}{4}{section.5}
+\contentsline {section}{\numberline {6}Ultrasound sensor}{4}{section.6}
+\contentsline {section}{\numberline {7}Sharp IR sensor}{4}{section.7}
+\contentsline {part}{III\hspace {1em}Mathematical modeling of MeArm}{4}{part.3}
+\contentsline {part}{IV\hspace {1em}Software architecture}{5}{part.4}
+\contentsline {part}{V\hspace {1em}Flowcharts}{5}{part.5}
+\contentsline {part}{VI\hspace {1em}Design details}{7}{part.6}
+\contentsline {section}{\numberline {8}Navigation}{7}{section.8}
+\contentsline {subsection}{\numberline {8.1}Ultrasound sensor interfacing code}{8}{subsection.8.1}
+\contentsline {paragraph}{\numberline {8.1.0.1}Timer initialization}{8}{paragraph.8.1.0.1}
+\contentsline {paragraph}{\numberline {8.1.0.2}Port Initialization}{8}{paragraph.8.1.0.2}
+\contentsline {paragraph}{\numberline {8.1.0.3}Trigger pin function}{8}{paragraph.8.1.0.3}
+\contentsline {paragraph}{\numberline {8.1.0.4}Distance calculation}{9}{paragraph.8.1.0.4}
+\contentsline {subsection}{\numberline {8.2}Sharp IR sensor interfacing code}{9}{subsection.8.2}
+\contentsline {paragraph}{\numberline {8.2.0.1}Distance calculation}{9}{paragraph.8.2.0.1}
+\contentsline {subsection}{\numberline {8.3}P control with deadband for navigation}{10}{subsection.8.3}
+\contentsline {section}{\numberline {9}Actuator kinematics}{10}{section.9}
+\contentsline {subsection}{\numberline {9.1}Servo interface}{10}{subsection.9.1}
+\contentsline {paragraph}{\numberline {9.1.0.1}Timer initialization}{10}{paragraph.9.1.0.1}
+\contentsline {paragraph}{\numberline {9.1.0.2}Port initialization}{11}{paragraph.9.1.0.2}
+\contentsline {paragraph}{\numberline {9.1.0.3}Degree calculation\\}{11}{paragraph.9.1.0.3}
+\contentsline {section}{\numberline {10}MATLAB implementation of MeArm}{12}{section.10}
+\contentsline {section}{\numberline {11}Navigation implementation}{13}{section.11}
+\contentsline {part}{VII\hspace {1em}Learning experience}{13}{part.7}
+\contentsline {section}{\numberline {12}Indoor navigation}{14}{section.12}
+\contentsline {section}{\numberline {13}3 DOF manipulator (MeArm)}{14}{section.13}
+\contentsline {part}{VIII\hspace {1em}Result}{14}{part.8}
+\contentsline {section}{\numberline {14}Deliverables}{15}{section.14}
+\contentsline {section}{\numberline {15}Things achieved}{15}{section.15}
+\contentsline {part}{IX\hspace {1em}Future work}{15}{part.9}
+\contentsline {part}{X\hspace {1em}References}{16}{part.10}
+\contentsline {section}{\numberline {16}Irobotbraava}{16}{section.16}
+\contentsline {section}{\numberline {17}Irobotbraava jet}{16}{section.17}
